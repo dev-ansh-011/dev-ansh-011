@@ -23,7 +23,7 @@ A collection of writeups and notes documenting my journey through all 34 Bandit 
 ## Tech Stack
 
 ```text
-Python • Linux • Git • GitHub • Bash • Pytest
+Python • Linux • Git • GitHub • Bash 
 ```
 
 ## Current Goal
