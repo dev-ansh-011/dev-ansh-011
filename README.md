@@ -24,5 +24,5 @@ I enjoy building practical projects and learning how systems work through hands-
 
 ## Connect
 
-[LinkedIn](https://www.linkedin.com/in/dev-devansh/)
+[LinkedIn](https://www.linkedin.com/in/dev-devansh/) ~
 [LeetCode](https://leetcode.com/u/Dev_ansh_011/)
