@@ -1,35 +1,28 @@
-# Hi, I'm Devansh 
+# Hi, I'm Devansh
 
-I'm a Computer Science student interested in software engineering, cybersecurity, and cloud technologies. I enjoy building projects that strengthen my understanding of how systems work—from Python applications to Linux and security tooling.
+Computer Science student interested in **software engineering, cybersecurity, and cloud technologies**.
 
-## Currently
+I enjoy building practical projects and learning how systems work through hands-on experimentation.
 
--- Completed Harvard's CS50P
--- Completed OverTheWire Bandit (34/34 levels)
--- Building Python projects and improving problem-solving skills
--- Learning Linux, cybersecurity, and cloud fundamentals
+## What I'm Working On
+
+* Building projects with **Python**
+* Solving **DSA problems with Python** through NeetCode 150
+* Learning **Linux, cybersecurity, Docker, and cloud**
+* Exploring **DevSecOps and software engineering**
 
 ## Featured Projects
 
-### 🛡️ SecureCheck
-A Python static security scanner that detects hardcoded secrets and unsafe function usage without executing code.
+*  **[SecureCheck](https://github.com/dev-ansh-011)** — Python static security scanner for detecting hardcoded secrets and unsafe function usage, containerized with Docker.
+*  **[DSA — NeetCode 150](https://github.com/dev-ansh-011)** — Python solutions to NeetCode 150, organized by problem-solving patterns.
+*  **[CS50P Solutions](https://github.com/dev-ansh-011)** — Solutions and notes from Harvard's CS50P.
+*  **[OverTheWire Bandit Writeups](https://github.com/dev-ansh-011)** — Writeups covering all 34 Bandit levels.
 
-### 🐍 CS50P Solutions
-My solutions and notes from Harvard's CS50 Introduction to Programming with Python.
+## Skills
 
-### 💻 OverTheWire Bandit Writeups
-A collection of writeups and notes documenting my journey through all 34 Bandit levels.
-
-## Tech Stack
-
-```text
-Python • Linux • Git • GitHub • Bash 
-```
-
-## Current Goal
-
-Build practical software engineering and cloud skills while working toward internship opportunities.
+`Python` `Go` `Linux` `Bash` `Git` `GitHub` `Docker`  
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/dev-devansh/
+[LinkedIn](https://www.linkedin.com/in/dev-devansh/)
+[LeetCode](https://leetcode.com/u/Dev_ansh_011/)
