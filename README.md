@@ -13,7 +13,7 @@ I enjoy building practical projects and learning how systems work through hands-
 
 ## Featured Projects
 
-*  **[SecureCheck](https://github.com/dev-ansh-011/securecheck-python)** — Python static security scanner for detecting hardcoded secrets and unsafe function usage, containerized with Docker.
+*  **[SecureCheck](https://github.com/dev-ansh-011/securecheck-python)** — Python static security scanner for detecting hardcoded secrets and unsafe function usage, containerized with Docker and secured with GitHub Actions and Trivy.
 *  **[DSA — NeetCode 150](https://github.com/dev-ansh-011/DSA)** — Python solutions to NeetCode 150, organized by problem-solving patterns.
 *  **[CS50P Solutions](https://github.com/dev-ansh-011/cs50p-solutions)** — Solutions and notes from Harvard's CS50P.
 *  **[OverTheWire Bandit Writeups](https://github.com/dev-ansh-011/bandit-writeups)** — Writeups covering all 34 Bandit levels.
