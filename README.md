@@ -1,7 +1,6 @@
 # Hi, I'm Devansh
 
 Computer Science student interested in **software engineering, cybersecurity, and cloud technologies**.
-
 I enjoy building practical projects and learning how systems work through hands-on experimentation.
 
 ## What I'm Working On
